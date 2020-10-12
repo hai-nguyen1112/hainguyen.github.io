@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5e932aeb.chunk.css",
+    "main.js": "/static/js/main.4982a868.chunk.js",
+    "main.js.map": "/static/js/main.4982a868.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.871fbe04.js",
+    "runtime-main.js.map": "/static/js/runtime-main.871fbe04.js.map",
+    "static/js/2.1f718a2e.chunk.js": "/static/js/2.1f718a2e.chunk.js",
+    "static/js/2.1f718a2e.chunk.js.map": "/static/js/2.1f718a2e.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.467d1772ee979331871c6dfb3bd31b3a.js": "/precache-manifest.467d1772ee979331871c6dfb3bd31b3a.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/main.5e932aeb.chunk.css.map": "/static/css/main.5e932aeb.chunk.css.map",
+    "static/js/2.1f718a2e.chunk.js.LICENSE.txt": "/static/js/2.1f718a2e.chunk.js.LICENSE.txt",
+    "static/media/About.module.scss": "/static/media/about.86785ab3.jpg",
+    "static/media/cfsa.jpg": "/static/media/cfsa.13d8dcf5.jpg",
+    "static/media/enzyme.png": "/static/media/enzyme.5018a76b.png",
+    "static/media/express.png": "/static/media/express.bd3a7cd2.png",
+    "static/media/ge.jpg": "/static/media/ge.71f6edbd.jpg",
+    "static/media/hai-nguyen.jpg": "/static/media/hai-nguyen.db5105bd.jpg",
+    "static/media/haiavatar.jpg": "/static/media/haiavatar.43bab67f.jpg",
+    "static/media/hiant.jpg": "/static/media/hiant.03492720.jpg",
+    "static/media/javascript.jpg": "/static/media/javascript.466c9720.jpg",
+    "static/media/mongodb.png": "/static/media/mongodb.50f50ad5.png",
+    "static/media/mongoose.png": "/static/media/mongoose.89e2c62c.png",
+    "static/media/nodejs.png": "/static/media/nodejs.49eb264a.png",
+    "static/media/react.png": "/static/media/react.b4d50f46.png",
+    "static/media/redux.png": "/static/media/redux.822be8db.png",
+    "static/media/sass.png": "/static/media/sass.106ecf4a.png",
+    "static/media/typescript.jpg": "/static/media/typescript.fead1d45.jpg",
+    "static/media/undercooked.jpg": "/static/media/undercooked.9da375a2.jpg",
+    "static/media/web.png": "/static/media/web.ac8945f2.png",
+    "static/media/Welcome.module.scss": "/static/media/welcome.578bdd00.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.871fbe04.js",
+    "static/js/2.1f718a2e.chunk.js",
+    "static/css/main.5e932aeb.chunk.css",
+    "static/js/main.4982a868.chunk.js"
+  ]
+}
